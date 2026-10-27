@@ -1,4 +1,4 @@
-# AI Shop - Flutter App - README
+# AI Shop 
 
 ## Project ka Overview
 Ye aik AI-powered E-commerce shop hai. Ismai user products dekh sakta hai, search kar sakta hai, AI se recommend karwa sakta hai, aur AI assistant se baat karke product dhoond sakta hai. Ye pure Dart mai hai, koi extra package nahi lagaya gaya.
